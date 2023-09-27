@@ -1,0 +1,6 @@
+{
+  "dbConnstr": "server=localhost;database=wp;user=root;password=root;Character Set=utf8",
+  "domain": "",
+  "webroot": "d:/www/wordpress",
+  "excutor": "Daohang"
+}

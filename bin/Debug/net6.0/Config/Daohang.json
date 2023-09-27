@@ -1,0 +1,7 @@
+{
+  "category":"1", //wp的分类id
+  "author": "2",
+  "tags": "",
+  "postType": "sites",
+  "crawlurl": "https://www.8kmm.com/type/youxiang"
+}
